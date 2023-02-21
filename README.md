@@ -17,7 +17,7 @@ allprojects {
 ```gradle
 
 dependencies {
-	        implementation 'com.github.Tusharshetty912:AutoScroll:1.0.0'
+	        implementation 'com.github.Tusharshetty912:AutoScroll:1.0.1'
 	}
   ```
   
@@ -30,3 +30,5 @@ dependencies {
    #delayInMilliSecs is the time required for waiting in a particular card
    
    ```
+
+[![](https://jitpack.io/v/Tusharshetty912/AutoScroll.svg)](https://jitpack.io/#Tusharshetty912/AutoScroll)
