@@ -20,3 +20,11 @@ dependencies {
 	        implementation 'com.github.Tusharshetty912:AutoScroll:1.0.0'
 	}
   ```
+  
+  > Step 3. Call the function 
+  
+  ``` 
+  
+   AutoScroll.setAutoScrollInfo(adapter.itemCount,recyclerview,delayInMilliSecs)
+   
+   ```
