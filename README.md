@@ -27,4 +27,6 @@ dependencies {
   
    AutoScroll.setAutoScrollInfo(adapter.itemCount,recyclerview,delayInMilliSecs)
    
+   #delayInMilliSecs is the time required for waiting in a particular card
+   
    ```
