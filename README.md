@@ -30,5 +30,3 @@ dependencies {
    #delayInMilliSecs is the time required for waiting in a particular card
    
    ```
-
-[![](https://jitpack.io/v/Tusharshetty912/AutoScroll.svg)](https://jitpack.io/#Tusharshetty912/AutoScroll)
