@@ -17,7 +17,7 @@ allprojects {
 ```gradle
 
 dependencies {
-	        api 'com.github.Tusharshetty912:AutoScroll:1.0.4'
+	        api 'com.github.Tusharshetty912:AutoScroll:1.0.5'
 	}
   ```
   
